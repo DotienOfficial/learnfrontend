@@ -47,3 +47,8 @@ div{
     background-color: pink;
     color: magenta;
 }
+/* Table */
+tr, td, table { 
+    width: 160px;
+    height: auto;
+}
