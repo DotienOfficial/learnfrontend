@@ -1,0 +1,38 @@
+
+/* Make Div come from top to bottom */
+div{ 
+    display: flex;
+    margin: auto;
+    } 
+/* Make horizontal menu */
+.navigation{ 
+    font-size: 20px;
+    cursor: pointer;
+}
+/* Làm cho các thẻ li trải từ trái qua phải */
+li {
+    float: left;
+    list-style: none;
+  }
+
+/* Hiển thị thẻ a như một block */
+a {
+    display: block;
+    padding: 10px;
+    background-color: #dddddd;
+    /* Bỏ gạch chân phía dưới của link */
+    text-decoration: none;
+  }
+
+
+/* Hiệu ứng chuột khi hover lên link */
+a:hover{ 
+    background-color: red;
+}
+
+/* Verticle Menu */
+.version2 { 
+    display: block;
+    list-style: none;
+    width: 200px;
+}
