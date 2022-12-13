@@ -10,13 +10,13 @@ div{
     cursor: pointer;
 }
 /* Làm cho các thẻ li trải từ trái qua phải */
-li {
+.list1 {
     float: left;
     list-style: none;
   }
 
 /* Hiển thị thẻ a như một block */
-a {
+.version1 {
     display: block;
     padding: 10px;
     background-color: #dddddd;
@@ -26,13 +26,24 @@ a {
 
 
 /* Hiệu ứng chuột khi hover lên link */
-a:hover{ 
+.version1:hover{ 
     background-color: red;
 }
 
 /* Verticle Menu */
-.version2 { 
-    display: block;
+.list2 { 
+    /* class of li tag */
     list-style: none;
-    width: 200px;
+}
+.version2{ 
+    /* class of a tag */
+    display: block;
+    text-decoration: none;
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+.version2:hover { 
+    background-color: pink;
+    color: magenta;
 }
