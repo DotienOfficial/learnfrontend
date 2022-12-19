@@ -1,0 +1,10 @@
+  <!-- Những thành phần thường thấy trên trang
+  1. Header 
+  2. Navigation (điều hướng)
+  3. Breadcumb (Trang chủ > Portfolio): Chỉ ra cho mình biết mình đang ở đâu trong trang web. (Optional)
+  4. Sidebar
+  5. Slider
+  6. Banner
+  7. Content
+  8. Footer 
+  -->

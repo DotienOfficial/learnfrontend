@@ -1,0 +1,39 @@
+/* reset CSS */
+* { 
+    /* Emmet */
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+/* 
+1. Vị trí
+2. Kích thước
+3. Màu sắc
+4. Kiểu dáng (kiểu chữ, hình dáng)
+ */
+ /* 
+ Từ ngoài vào trong 
+ Từ trên xuống dưới
+ Từ tổng quan đến chi tiết
+  */
+#main{
+
+}
+
+#header{
+    height: 46px;
+    background-color: black;
+
+}
+
+#slider{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
